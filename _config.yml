@@ -1,6 +1,20 @@
-remote_theme: pages-themes/primer@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+exclude:
+  - node_modules
+  - script
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/pages-themes/primer"
+  
+title: Jekyll Theme Primer
+description: Primer is a Jekyll theme for GitHub Pages
