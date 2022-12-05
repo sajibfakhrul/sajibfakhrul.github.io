@@ -1,4 +1,5 @@
 ![sajib-new](https://user-images.githubusercontent.com/54445594/204835958-20cf3d13-8fd7-49e2-86bb-c997e8099034.jpg)
+![sajib](https://user-images.githubusercontent.com/54445594/205715531-626eaaf6-f9a9-42b6-8979-0bc357073450.jpg)
 
 
 
@@ -6,6 +7,7 @@
 
 
 ### My name is Md Fakhrul Alam Sajib. I have been working as a Lecturer in the Department of Computer Science and Engineering at University of Development Alternative (UODA), Bangladesh from February 2020 to present. Prior to that, I have also worked as a Junior Programmer at Southtech Limited, a leading software company in Bangladesh, from March 2019 to January 2020 and I have completed my Master of Science (MSc) degree in Computer Science and Engineering at Jagannath University, Dhaka in December 2018. 
+
 
 ### I am interested in Human-Computer Interaction, Machine Learning, Artificial Intelligence, Computational Social Science and Data Science. 
 
