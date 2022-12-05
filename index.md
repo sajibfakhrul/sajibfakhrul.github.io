@@ -1,5 +1,4 @@
 ![sajib-new](https://user-images.githubusercontent.com/54445594/204835958-20cf3d13-8fd7-49e2-86bb-c997e8099034.jpg)
-![sajib](https://user-images.githubusercontent.com/54445594/205715531-626eaaf6-f9a9-42b6-8979-0bc357073450.jpg)
 
 
 
