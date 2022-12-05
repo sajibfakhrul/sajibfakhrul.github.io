@@ -5,7 +5,7 @@
 
 
 
-### My name is Md Fakhrul Alam Sajib. I am a Lecturer in the Department of Computer Science and Engineering at University of Development Alternative (UODA), Bangladesh.
+### My name is Md Fakhrul Alam Sajib. I have been working as a Lecturer in the Department of Computer Science and Engineering at University of Development Alternative (UODA), Bangladesh from February 2020 to present. Prior to that, I have also worked as a Junior Programmer at Southtech Limited, a leading software company in Bangladesh, from March 2019 to January 2020 and I have completed my Master of Science (MSc) degree in Computer Science and Engineering at Jagannath University, Dhaka in December 2018. I am interested in Human-Computer Interaction, Machine Learning, Artificial Intelligence, Computational Social Science and Data Science. 
 
 I am passionate about teaching. I know how to present topics so that it is easy to grasp for students. I am gregarious, ingenuous, responsible, magnanimous, and very hard working . I would like to improve my working capabilities, professional skills to help my organization. I have excellent technical and communication skills. I am very enthusiastic to learn and work with new technologies.
 
