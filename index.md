@@ -13,7 +13,7 @@ My name is Md Fakhrul Alam Sajib. I have been working as a Lecturer in the Depar
 
 I am passionate about teaching. I know how to present topics so that it is easy to grasp for students. I am gregarious, ingenuous, responsible, magnanimous, and very hard working . I would like to improve my working capabilities, professional skills to help my organization. I have excellent technical and communication skills. I am very enthusiastic to learn and work with new technologies.
 
-If you want to reach out to me, drop me an email at sajibfakhrul@cse.uoda.edu.bd / sajibfakhrul@gmail.com
+If you want to reach out to me, drop me an email at sajibfakhrul@gmail.com / sajibfakhrul@cse.uoda.edu.bd
 
 
 
