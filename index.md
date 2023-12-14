@@ -17,7 +17,7 @@ If you want to reach out to me, drop me an email at sajibfakhrul@gmail.com / ms4
 
 
 
-![Profile views](https://gpvc.arturio.dev/sajibfakhrul)  
+
 
 
 
